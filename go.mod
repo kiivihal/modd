@@ -1,4 +1,4 @@
-module github.com/cortesi/modd
+module github.com/kiivihal/modd
 
 go 1.20
 
